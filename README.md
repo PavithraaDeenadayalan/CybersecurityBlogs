@@ -9,5 +9,5 @@ My cybersecurity write-ups, hands-on logs, and learning reflections.
 2. [What Is a Firewall? Your Cybersecurity Castle Gatekeeper](https://medium.com/@pavithraadeenadayalan35/what-is-a-firewall-your-cybersecurity-castle-gatekeeper-84398028cc8c)  
    > A beginner-friendly deep dive into firewalls, explained as digital castle gatekeepers with types, uses & real-world analogies!
 
-3. [How the Internet Works] (https://medium.com/@pavithraadeenadayalan35/how-your-cat-video-travels-10-000-miles-in-miliseconds-442072d49bd9)
+3. [How the Internet Works](https://medium.com/@pavithraadeenadayalan35/how-your-cat-video-travels-10-000-miles-in-miliseconds-442072d49bd9)
    > A cinematic breakdown of how the internet actually works—fiber optics, packets, IPs & magical data journeys!
